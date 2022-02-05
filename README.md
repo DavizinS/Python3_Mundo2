@@ -1,1 +1,3 @@
-# Olá, aqui está meu progresso em Python 3, Mundo 2 do Curso em Video.
+# Python 3
+
+- Olá, aqui está um pouco da minha evolução com Python.
